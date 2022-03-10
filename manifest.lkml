@@ -1,7 +1,7 @@
-project_name: "ken-extension-demo"
+project_name: "ken-demo-extension"
 
-application: ken-extension-demo {
-  label: "ken-extension-demo"
+application: ken-demo-extension {
+  label: "ken-demo-extension"
   url: "http://localhost:8080/bundle.js"
   # file: "bundle.js
   entitlements: {
