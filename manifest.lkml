@@ -1,7 +1,7 @@
-project_name: "ken-demo-extension"
+project_name: "typescript-tabs"
 
-application: ken-demo-extension {
-  label: "ken-demo-extension"
+application: typescript-tabs {
+  label: "typescript-tabs"
   url: "http://localhost:8080/bundle.js"
   # file: "bundle.js
   entitlements: {
