@@ -2,10 +2,9 @@ project_name: "typescript-tabs"
 
 application: typescript-tabs {
   label: "typescript-tabs"
-  url: "http://localhost:8080/bundle.js"
-  # file: "bundle.js
-  entitlements: {
-    core_api_methods: ["me"] #Add more entitlements here as you develop new functionality
+  # url: "http://localhost:8080/bundle.js"
+  file: "bundle.js"
+  entitlements: { #Add more entitlements here as you develop new functionality
     use_embeds: yes
   }
 }
